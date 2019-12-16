@@ -1,0 +1,66 @@
+1575079087833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lg/t6czlb5n2fqcp3ccwp3gwr_40000gn/T/rust_mozprofile2iSKvL"
+1575079089132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575079089132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575079089132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575079089132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575079091606	Marionette	INFO	Listening on port 61456
+1575079091650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1107: ReferenceError: upManager is not defined
+JavaScript warning: https://www.ynet.co.il/Cmn/App/Video/CmmAppVideoApi_Js/0,13777,280716135620,00.html, line 1865: unreachable code after return statement
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 17: ReferenceError: osdlfm is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1140:3
+
+1575079159100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lg/t6czlb5n2fqcp3ccwp3gwr_40000gn/T/rust_mozprofile2JmdH1"
+1575079159777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575079159778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575079159778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575079159778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575079161925	Marionette	INFO	Listening on port 63767
+1575079162000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575079293817	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lg/t6czlb5n2fqcp3ccwp3gwr_40000gn/T/rust_mozprofile08wMhU"
+1575079294676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575079294677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575079294677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575079294677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575079297157	Marionette	INFO	Listening on port 51260
+1575079297180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575079340253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lg/t6czlb5n2fqcp3ccwp3gwr_40000gn/T/rust_mozprofile8i954y"
+1575079340890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575079340890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575079340890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575079340890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575079343158	Marionette	INFO	Listening on port 52662
+1575079343241	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4681, Worker Launcher] WARNING: Unable to create pipe named "4681.2.431903903" in server mode error(Too many open files in system).: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 211
+2019-11-30 02:02:35.660 plugin-container[4681:2519131] CoreText: System LastResort not available, using built-in copy.
+2019-11-30 04:02:35.732 firefox-bin[4666:2518305] Persistent UI failed to open file file:///Users/adi.y/Library/Saved%20Application%20State/org.mozilla.firefox.savedState/window_1.data: Too many open files in system (23)
+1575079398904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lg/t6czlb5n2fqcp3ccwp3gwr_40000gn/T/rust_mozprofilesGEQxF"
+1575079399767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575079399767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575079399767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575079399767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 4706, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+[Parent 4706, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 646
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1255: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 434: TypeError: browser.webProgress is null
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+2019-11-30 04:03:20.986 firefox-bin[4706:2519821] CoreText: System LastResort not available, using built-in copy.
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not read session file " (new Error("", "(unknown module)")) ""
+[Parent 4706, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/workspace/build/src/ipc/chromium/src/base/shared_memory_posix.cc, line 250
+[Parent 4706, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/workspace/build/src/ipc/chromium/src/base/shared_memory_posix.cc, line 250
+[Parent 4706, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/workspace/build/src/ipc/chromium/src/base/shared_memory_posix.cc, line 250
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 135: TypeError: this._browser.frameLoader.remoteTab is null
+** Unknown exception behavior: 3
+Exiting due to channel error.
+[Parent 4528, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1575079539283	Marionette	INFO	Stopped listening on port 61456
+1575079542849	Marionette	INFO	Stopped listening on port 63767
+1575079546753	Marionette	INFO	Stopped listening on port 51260
+1575079550441	Marionette	INFO	Stopped listening on port 52662
